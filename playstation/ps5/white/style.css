@@ -199,10 +199,12 @@
   background-position-x: -192px;
 }
 .custom .stick.left {
+  background: url(stickspress.svg)  no-repeat;
   top: 0;
   left: 0;
 }
 .custom .stick.right {
+  background: url(stickspress.svg)  no-repeat;
   top: 0;
   left: calc(100% - 94px);
 }
